@@ -1,0 +1,969 @@
+[
+  {
+    "test": "a man describes the the ocean", 
+    "image_id": 2, 
+    "refs": [
+      "a guying showing a tool"
+    ]
+  }, 
+  {
+    "test": "a guy talks about the view", 
+    "image_id": 15, 
+    "refs": [
+      "lines are created on top of another on the computer screen"
+    ]
+  }, 
+  {
+    "test": "a man in a girl is s s s", 
+    "image_id": 33, 
+    "refs": [
+      "a female providing a show and tell of recent clothing purchases"
+    ]
+  }, 
+  {
+    "test": "a band is singing a black is singing with injuries", 
+    "image_id": 35, 
+    "refs": [
+      "a man is playing a guitar in a car", 
+      "a man is playing a guitar in a car", 
+      "a man is playing a guitar in a car"
+    ]
+  }, 
+  {
+    "test": "a girl is in black shirt and a doing in a", 
+    "image_id": 36, 
+    "refs": [
+      "a girl describing about her high heel"
+    ]
+  }, 
+  {
+    "test": "a boy are in a outfield making an awesome catch", 
+    "image_id": 49, 
+    "refs": [
+      "a man scores a goal in soccer", 
+      "a man scores a goal in soccer"
+    ]
+  }, 
+  {
+    "test": "a person woman in a person sporty what canine", 
+    "image_id": 50, 
+    "refs": [
+      "a girl and boy flirt then eat food", 
+      "a girl and boy flirt then eat food"
+    ]
+  }, 
+  {
+    "test": "a girl player his horse uniform confronts a walks from a field", 
+    "image_id": 51, 
+    "refs": [
+      "a black man anxiously slowly spins around"
+    ]
+  }, 
+  {
+    "test": "a girl is performing a song on the street", 
+    "image_id": 53, 
+    "refs": [
+      "a female child performing a song in front of judges for a reality talent show"
+    ]
+  }, 
+  {
+    "test": "a man explaining a the minecraft is shown", 
+    "image_id": 56, 
+    "refs": [
+      "a cover of the song this little light of mine plays over landscape images"
+    ]
+  }, 
+  {
+    "test": "there is a interviewed and black busy busy busy preparing", 
+    "image_id": 67, 
+    "refs": [
+      "a clip taken from an asian soap opera"
+    ]
+  }, 
+  {
+    "test": "a man in saying saying dish dish dish dish dish", 
+    "image_id": 69, 
+    "refs": [
+      "a clip of a man with medical conditions", 
+      "a clip of a man with medical conditions"
+    ]
+  }, 
+  {
+    "test": "a chinese talks to a a woman in a drive", 
+    "image_id": 70, 
+    "refs": [
+      "a drama is performed on stage"
+    ]
+  }, 
+  {
+    "test": "a advertisement for a black is shown", 
+    "image_id": 80, 
+    "refs": [
+      "a video explaining how to make glow sticks and the science behind", 
+      "a video explaining how to make glow sticks and the science behind"
+    ]
+  }, 
+  {
+    "test": "a woman wearing interviewed a a wearing wearing wearing suit suit suit suit about about the", 
+    "image_id": 85, 
+    "refs": [
+      "a girl getting her hair done"
+    ]
+  }, 
+  {
+    "test": "a jacket of a drives recklessly a the action and a action", 
+    "image_id": 86, 
+    "refs": [
+      "a car being reviewed"
+    ]
+  }, 
+  {
+    "test": "a woman haired of the video", 
+    "image_id": 96, 
+    "refs": [
+      "a cellphone s apps are being scrolled page by page", 
+      "a cellphone s apps are being scrolled page by page", 
+      "a cellphone s apps are being scrolled page by page"
+    ]
+  }, 
+  {
+    "test": "a game about a assembly", 
+    "image_id": 109, 
+    "refs": [
+      "a cartoon reading a book"
+    ]
+  }, 
+  {
+    "test": "a computer game which over a game", 
+    "image_id": 132, 
+    "refs": [
+      "there is a woman in hot dressing is walking on the floor"
+    ]
+  }, 
+  {
+    "test": "a is yellow man in a video game", 
+    "image_id": 137, 
+    "refs": [
+      "a lady is describing a tool that creates polymer pieces"
+    ]
+  }, 
+  {
+    "test": "a is a yellow yellow a", 
+    "image_id": 151, 
+    "refs": [
+      "a man with a dress and a woman are talking"
+    ]
+  }, 
+  {
+    "test": "a cartoon character plays in mortal mortal being", 
+    "image_id": 154, 
+    "refs": [
+      "a cartoon character is standing at the edge of a cliff", 
+      "a cartoon character is standing at the edge of a cliff"
+    ]
+  }, 
+  {
+    "test": "a bearded of his man is while a a driving in on the the on the", 
+    "image_id": 161, 
+    "refs": [
+      "a boat full of people fighting", 
+      "a boat full of people fighting"
+    ]
+  }, 
+  {
+    "test": "the few and man is about while a and man", 
+    "image_id": 188, 
+    "refs": [
+      "there are many people gathered in the stadium to watch basket ball match"
+    ]
+  }, 
+  {
+    "test": "a clip of a running at a car", 
+    "image_id": 189, 
+    "refs": [
+      "a car driving on the road"
+    ]
+  }, 
+  {
+    "test": "a hand about some young deck of the room of the phone", 
+    "image_id": 201, 
+    "refs": [
+      "a video showing around in a room which have a black color bag on floor and cream color liquid in a glass bowl", 
+      "a video showing around in a room which have a black color bag on floor and cream color liquid in a glass bowl", 
+      "a video showing around in a room which have a black color bag on floor and cream color liquid in a glass bowl"
+    ]
+  }, 
+  {
+    "test": "there is a black shirt in a man and something", 
+    "image_id": 206, 
+    "refs": [
+      "a guy playing a guitar"
+    ]
+  }, 
+  {
+    "test": "a man in black in black while a tends in a", 
+    "image_id": 207, 
+    "refs": [
+      "a chorus of men are singing in a serious manner"
+    ]
+  }, 
+  {
+    "test": "a man explaining a that", 
+    "image_id": 208, 
+    "refs": [
+      "a demonstration on origami", 
+      "a demonstration on origami", 
+      "a demonstration on origami"
+    ]
+  }, 
+  {
+    "test": "a couple of men modern into country country", 
+    "image_id": 216, 
+    "refs": [
+      "a band is performing music for an audience"
+    ]
+  }, 
+  {
+    "test": "a girl is demonstrating a and move jacket a a a a", 
+    "image_id": 217, 
+    "refs": [
+      "a boy is eating a popsicle"
+    ]
+  }, 
+  {
+    "test": "a group of his tv show", 
+    "image_id": 239, 
+    "refs": [
+      "a group is dancing"
+    ]
+  }, 
+  {
+    "test": "a man in a woman talking about a pot from a car", 
+    "image_id": 244, 
+    "refs": [
+      "a man in red swim trunks stands on rocks puts on his swim goggles and picks up a yellow inner tube"
+    ]
+  }, 
+  {
+    "test": "a boy band is signing and keeping", 
+    "image_id": 246, 
+    "refs": [
+      "a confused family interacts with an agitated cop"
+    ]
+  }, 
+  {
+    "test": "a wrestling match at the in an wrestling", 
+    "image_id": 252, 
+    "refs": [
+      "a person is on the ground"
+    ]
+  }, 
+  {
+    "test": "a group of people in uniforms are playing soccer a a field field field", 
+    "image_id": 254, 
+    "refs": [
+      "a clip from a football match"
+    ]
+  }, 
+  {
+    "test": "a car is driving a a car", 
+    "image_id": 259, 
+    "refs": [
+      "a clip from some minecraft video game", 
+      "a clip from some minecraft video game"
+    ]
+  }, 
+  {
+    "test": "a cars racing in is is shown on the", 
+    "image_id": 269, 
+    "refs": [
+      "a fight is loaded in mortal kombat"
+    ]
+  }, 
+  {
+    "test": "a cartoon character with a cooking", 
+    "image_id": 280, 
+    "refs": [
+      "an animated man in a lab coat picks up a match sticks and stands next to a game of nim"
+    ]
+  }, 
+  {
+    "test": "a man is reading the craft from his playing playing playing playing", 
+    "image_id": 281, 
+    "refs": [
+      "a man wearing glasses and holding a bowl of popcorn excitedly describes the mine cart scene from a movie while said scene plays in the background", 
+      "a man wearing glasses and holding a bowl of popcorn excitedly describes the mine cart scene from a movie while said scene plays in the background"
+    ]
+  }, 
+  {
+    "test": "a large explaining that that that croquettes", 
+    "image_id": 286, 
+    "refs": [
+      "there is a man is walking on the floor"
+    ]
+  }, 
+  {
+    "test": "a man describes a black inside various a paper", 
+    "image_id": 293, 
+    "refs": [
+      "a woman with many many bowls out to make gelatin", 
+      "a woman with many many bowls out to make gelatin"
+    ]
+  }, 
+  {
+    "test": "a man is talking with the craft", 
+    "image_id": 300, 
+    "refs": [
+      "a man and another man talking in front of a screen"
+    ]
+  }, 
+  {
+    "test": "a behind water taking video on a play", 
+    "image_id": 312, 
+    "refs": [
+      "a car revs its engines and runs its lights before quickly taking off down the street"
+    ]
+  }, 
+  {
+    "test": "a band is performing a song on a stage", 
+    "image_id": 314, 
+    "refs": [
+      "a black suit woman is talking from a studio"
+    ]
+  }, 
+  {
+    "test": "a video showing showing showing of showing a very", 
+    "image_id": 327, 
+    "refs": [
+      "a cast of a tv show is introduced", 
+      "a cast of a tv show is introduced", 
+      "a cast of a tv show is introduced"
+    ]
+  }, 
+  {
+    "test": "a cartoon character with his food", 
+    "image_id": 332, 
+    "refs": [
+      "a yellow cartoon bird talks with another animal", 
+      "a yellow cartoon bird talks with another animal"
+    ]
+  }, 
+  {
+    "test": "a band is performing song song on stage", 
+    "image_id": 333, 
+    "refs": [
+      "a comedian is performing", 
+      "a comedian is performing"
+    ]
+  }, 
+  {
+    "test": "a man is being sequence on a song", 
+    "image_id": 342, 
+    "refs": [
+      "a cartoon of different fish that are swimming", 
+      "a cartoon of different fish that are swimming"
+    ]
+  }, 
+  {
+    "test": "a scene of a video game", 
+    "image_id": 362, 
+    "refs": [
+      "a game scene of a man riding his bike speedly"
+    ]
+  }, 
+  {
+    "test": "a playing recording of a table", 
+    "image_id": 367, 
+    "refs": [
+      "a person wearing yellow and a person wearing blue are playing badminton", 
+      "a person wearing yellow and a person wearing blue are playing badminton", 
+      "a person wearing yellow and a person wearing blue are playing badminton", 
+      "a person wearing yellow and a person wearing blue are playing badminton", 
+      "a person wearing yellow and a person wearing blue are playing badminton"
+    ]
+  }, 
+  {
+    "test": "two wrestling are men in a player and a ball in a ball the the", 
+    "image_id": 368, 
+    "refs": [
+      "a man is sitting"
+    ]
+  }, 
+  {
+    "test": "a lady midst about the man looks in a a a a a a in", 
+    "image_id": 369, 
+    "refs": [
+      "a child is using a tablet in a library"
+    ]
+  }, 
+  {
+    "test": "a cartoon character is knights to his animals", 
+    "image_id": 373, 
+    "refs": [
+      "a blocky windmill chops air to the tune of impending doom", 
+      "a blocky windmill chops air to the tune of impending doom", 
+      "a blocky windmill chops air to the tune of impending doom"
+    ]
+  }, 
+  {
+    "test": "a bunch of people on tiny motorcycles in a race", 
+    "image_id": 374, 
+    "refs": [
+      "a bunch of racers on mini motorcycles"
+    ]
+  }, 
+  {
+    "test": "a football is talking to another guy and his and in in there in", 
+    "image_id": 383, 
+    "refs": [
+      "a man is being interviewed on a television show"
+    ]
+  }, 
+  {
+    "test": "a cartoon animation at an at an an", 
+    "image_id": 388, 
+    "refs": [
+      "an informative clip about mexico s historical empire"
+    ]
+  }, 
+  {
+    "test": "a couple of adolescents talking about a ugly", 
+    "image_id": 403, 
+    "refs": [
+      "a man in a black hat holding a bicycle tire displays his contact information"
+    ]
+  }, 
+  {
+    "test": "a man explaining how to make things an paper", 
+    "image_id": 408, 
+    "refs": [
+      "a man shows blue gloves and blue tape and some platic bottles kept in table"
+    ]
+  }, 
+  {
+    "test": "a girl in a a wed", 
+    "image_id": 412, 
+    "refs": [
+      "two women wearing coats one red and one black walk through the snow", 
+      "two women wearing coats one red and one black walk through the snow", 
+      "two women wearing coats one red and one black walk through the snow"
+    ]
+  }, 
+  {
+    "test": "a group of people video", 
+    "image_id": 418, 
+    "refs": [
+      "a band is performing a song"
+    ]
+  }, 
+  {
+    "test": "a house dance is find two guys they in a in language language", 
+    "image_id": 419, 
+    "refs": [
+      "there is a man is escaping from a danger water flow"
+    ]
+  }, 
+  {
+    "test": "a blonde a woman is cooking a man", 
+    "image_id": 432, 
+    "refs": [
+      "a man eating in a restaurent"
+    ]
+  }, 
+  {
+    "test": "a couple discusses girls shirt show for a", 
+    "image_id": 435, 
+    "refs": [
+      "there is a tshirt boy is talking from a room"
+    ]
+  }, 
+  {
+    "test": "a man is commentating talking about a tables and his", 
+    "image_id": 441, 
+    "refs": [
+      "a man and a woman are talking about the news"
+    ]
+  }, 
+  {
+    "test": "a large explaining toy that", 
+    "image_id": 448, 
+    "refs": [
+      "this is an advertisement showing that admirals galley which is one of the best buffet restaurant and the motive of the restaurant is quality"
+    ]
+  }, 
+  {
+    "test": "a girl talking to make chair", 
+    "image_id": 452, 
+    "refs": [
+      "a british guy is talking about another kid", 
+      "a british guy is talking about another kid"
+    ]
+  }, 
+  {
+    "test": "a car is displayed a tunnel", 
+    "image_id": 458, 
+    "refs": [
+      "a awesome car showing", 
+      "a awesome car showing"
+    ]
+  }, 
+  {
+    "test": "a couple is being with music mask is and is", 
+    "image_id": 462, 
+    "refs": [
+      "a guy speaking to the camera"
+    ]
+  }, 
+  {
+    "test": "a car with a a a", 
+    "image_id": 466, 
+    "refs": [
+      "a man describes the back seat of a car"
+    ]
+  }, 
+  {
+    "test": "a boy is rolling in a chair in a road", 
+    "image_id": 468, 
+    "refs": [
+      "a clip showing an asian man working on a piece of equipment", 
+      "a clip showing an asian man working on a piece of equipment", 
+      "a clip showing an asian man working on a piece of equipment"
+    ]
+  }, 
+  {
+    "test": "a chef of kittens and a white", 
+    "image_id": 469, 
+    "refs": [
+      "a baby and a cat are in a bassinet"
+    ]
+  }, 
+  {
+    "test": "a band is performing a song", 
+    "image_id": 475, 
+    "refs": [
+      "a band is performing for a crowd", 
+      "a band is performing for a crowd"
+    ]
+  }, 
+  {
+    "test": "a boy boy a band performing", 
+    "image_id": 477, 
+    "refs": [
+      "a person headlining grains then images of a woman working with them", 
+      "a person headlining grains then images of a woman working with them"
+    ]
+  }, 
+  {
+    "test": "a band band performing a craft and are playing", 
+    "image_id": 486, 
+    "refs": [
+      "a dance group dances", 
+      "a dance group dances"
+    ]
+  }, 
+  {
+    "test": "a man is how on the lamp and shown the road", 
+    "image_id": 489, 
+    "refs": [
+      "a mountain side graphic showing water running through a river and over boulder rocks", 
+      "a mountain side graphic showing water running through a river and over boulder rocks"
+    ]
+  }, 
+  {
+    "test": "a person is playing filming", 
+    "image_id": 492, 
+    "refs": [
+      "a parrot is doing circus act it then places a colored button into a box there are few more boxes which the parrot is moving around"
+    ]
+  }, 
+  {
+    "test": "a playing playing playing ball", 
+    "image_id": 494, 
+    "refs": [
+      "a bunch of men are playing basketball"
+    ]
+  }, 
+  {
+    "test": "a gamer is playing an video game", 
+    "image_id": 500, 
+    "refs": [
+      "a character hides something from another character in minecraft"
+    ]
+  }, 
+  {
+    "test": "a person stirs ingredients meat in a pan", 
+    "image_id": 503, 
+    "refs": [
+      "a man cooks chicken in a pot"
+    ]
+  }, 
+  {
+    "test": "a boat character is being gun", 
+    "image_id": 506, 
+    "refs": [
+      "a girl cursing while playing a video game"
+    ]
+  }, 
+  {
+    "test": "a basketball team in a tiny of the in", 
+    "image_id": 512, 
+    "refs": [
+      "a group of kids dancing to a parody of the song watch me"
+    ]
+  }, 
+  {
+    "test": "a couple is being shot and an car", 
+    "image_id": 517, 
+    "refs": [
+      "a lady is washing a shirt by hand"
+    ]
+  }, 
+  {
+    "test": "a cartoon character talks in front of a cartoon talks", 
+    "image_id": 536, 
+    "refs": [
+      "a cartoon clip about body swapping", 
+      "a cartoon clip about body swapping"
+    ]
+  }, 
+  {
+    "test": "a cartoon character speaks knights itsy cartoon the toothbrush", 
+    "image_id": 541, 
+    "refs": [
+      "a cartoon character is driving a truck"
+    ]
+  }, 
+  {
+    "test": "a darkly lit room is shown", 
+    "image_id": 558, 
+    "refs": [
+      "a man demonstrating how to prepare bread"
+    ]
+  }, 
+  {
+    "test": "a band is performing a song", 
+    "image_id": 565, 
+    "refs": [
+      "a band is playing a song", 
+      "a band is playing a song"
+    ]
+  }, 
+  {
+    "test": "a boy bouncing a video", 
+    "image_id": 568, 
+    "refs": [
+      "a boy is rapping while his friend is beatboxing"
+    ]
+  }, 
+  {
+    "test": "a brown doing or a head to has and has", 
+    "image_id": 571, 
+    "refs": [
+      "cats are seen in a clear plastic container", 
+      "cats are seen in a clear plastic container", 
+      "cats are seen in a clear plastic container"
+    ]
+  }, 
+  {
+    "test": "a basketball player is down a video a man in the", 
+    "image_id": 578, 
+    "refs": [
+      "a female tennis player is hit in the head by the ball when returning a serve", 
+      "a female tennis player is hit in the head by the ball when returning a serve"
+    ]
+  }, 
+  {
+    "test": "a man in a blue of a around and around around around", 
+    "image_id": 580, 
+    "refs": [
+      "there is a hot woman is posing on the shore", 
+      "there is a hot woman is posing on the shore"
+    ]
+  }, 
+  {
+    "test": "a woman panel or symposium are video and footage with a a the background", 
+    "image_id": 586, 
+    "refs": [
+      "a basket ball related info is showing"
+    ]
+  }, 
+  {
+    "test": "a couple being people on an arabic for the table", 
+    "image_id": 590, 
+    "refs": [
+      "a bollywood news program with voice over narration"
+    ]
+  }, 
+  {
+    "test": "a actor gets an music while a guitar a guitar a a a a a", 
+    "image_id": 606, 
+    "refs": [
+      "a robot is limping"
+    ]
+  }, 
+  {
+    "test": "a character is playing a video with the game", 
+    "image_id": 607, 
+    "refs": [
+      "a computer game being advanced in a stage"
+    ]
+  }, 
+  {
+    "test": "a cartoon character is kruger in the action", 
+    "image_id": 611, 
+    "refs": [
+      "a battle involving tanks is shown", 
+      "a battle involving tanks is shown", 
+      "a battle involving tanks is shown"
+    ]
+  }, 
+  {
+    "test": "a group of children playing the on the tennis", 
+    "image_id": 615, 
+    "refs": [
+      "a boy playing minecraft and talking about it", 
+      "a boy playing minecraft and talking about it"
+    ]
+  }, 
+  {
+    "test": "a bunch of people being runs at a man", 
+    "image_id": 629, 
+    "refs": [
+      "a man drives a car down the street", 
+      "a man drives a car down the street"
+    ]
+  }, 
+  {
+    "test": "a film from is being minecraft", 
+    "image_id": 631, 
+    "refs": [
+      "old buildings with red tiled roofs line the street on a sunny day"
+    ]
+  }, 
+  {
+    "test": "a basketball team is playing", 
+    "image_id": 647, 
+    "refs": [
+      "a clip showing people being chased in sports games"
+    ]
+  }, 
+  {
+    "test": "a person showing a video on a an onions about the", 
+    "image_id": 684, 
+    "refs": [
+      "a woman wearing a red striped apron and a white t shirt puts tomatoes and garlic on a roasting tray"
+    ]
+  }, 
+  {
+    "test": "a man in black shirt shirt", 
+    "image_id": 699, 
+    "refs": [
+      "a boy falls into the toilet"
+    ]
+  }, 
+  {
+    "test": "a boy is doing on another talk her her", 
+    "image_id": 700, 
+    "refs": [
+      "a dino wolf serial trailer is going on"
+    ]
+  }, 
+  {
+    "test": "a man is his riding around a next", 
+    "image_id": 720, 
+    "refs": [
+      "a black and white horse runs around", 
+      "a black and white horse runs around", 
+      "a black and white horse runs around"
+    ]
+  }, 
+  {
+    "test": "a man is black on a he with and with music", 
+    "image_id": 732, 
+    "refs": [
+      "a male providing commentary regarding a popular event"
+    ]
+  }, 
+  {
+    "test": "a man from a television news station talks about donald a", 
+    "image_id": 742, 
+    "refs": [
+      "a man is giving a translation of a russian speach", 
+      "a man is giving a translation of a russian speach", 
+      "a man is giving a translation of a russian speach"
+    ]
+  }, 
+  {
+    "test": "a", 
+    "image_id": 765, 
+    "refs": [
+      "there are some apples cutting and some apple trees are there", 
+      "there are some apples cutting and some apple trees are there"
+    ]
+  }, 
+  {
+    "test": "a man is playing the from from he playing at playing playing an materials", 
+    "image_id": 766, 
+    "refs": [
+      "a guy in his room showing off his camera"
+    ]
+  }, 
+  {
+    "test": "a clip of the man a dummy a road", 
+    "image_id": 772, 
+    "refs": [
+      "a man riding the bike with full speed and doing some stunts on it"
+    ]
+  }, 
+  {
+    "test": "a bunch of scores sits hockey hockey a a", 
+    "image_id": 778, 
+    "refs": [
+      "a football player and a coach shake hands"
+    ]
+  }, 
+  {
+    "test": "a man is giving a a show show", 
+    "image_id": 790, 
+    "refs": [
+      "a clip from the televison show the voice"
+    ]
+  }, 
+  {
+    "test": "a cartoon band is the girl is twinkle monkey", 
+    "image_id": 828, 
+    "refs": [
+      "a cartoon dog plays with a soccer ball"
+    ]
+  }, 
+  {
+    "test": "a man from a into head a", 
+    "image_id": 833, 
+    "refs": [
+      "a girl is explaining about travel bag"
+    ]
+  }, 
+  {
+    "test": "a is a black in black talking with a on", 
+    "image_id": 856, 
+    "refs": [
+      "a lady is describing about the vegetarian food type people", 
+      "a lady is describing about the vegetarian food type people"
+    ]
+  }, 
+  {
+    "test": "a girl is being interviewed", 
+    "image_id": 857, 
+    "refs": [
+      "a woman commenting on a soap opera and a scene from the show is playing", 
+      "a woman commenting on a soap opera and a scene from the show is playing"
+    ]
+  }, 
+  {
+    "test": "a bearded man wearing a a is talking about the", 
+    "image_id": 875, 
+    "refs": [
+      "the chemistry periodic table breaks apart and the squares containing br and ba move forward"
+    ]
+  }, 
+  {
+    "test": "a clip is shown on the stage", 
+    "image_id": 877, 
+    "refs": [
+      "a band is performing a song"
+    ]
+  }, 
+  {
+    "test": "a man in a black uniform and orange and orange kicks a a the the the", 
+    "image_id": 910, 
+    "refs": [
+      "men in a wrestling ring", 
+      "men in a wrestling ring"
+    ]
+  }, 
+  {
+    "test": "a man doing folding a fold a paper", 
+    "image_id": 915, 
+    "refs": [
+      "a demonstration on folding paper into origami", 
+      "a demonstration on folding paper into origami", 
+      "a demonstration on folding paper into origami", 
+      "a demonstration on folding paper into origami"
+    ]
+  }, 
+  {
+    "test": "a man looks through a figurines pipe to tries to but to", 
+    "image_id": 920, 
+    "refs": [
+      "a person shows how to fix the nipple of a bottle to feed a puppy"
+    ]
+  }, 
+  {
+    "test": "a boy of a girl", 
+    "image_id": 921, 
+    "refs": [
+      "a baby was born with two faces", 
+      "a baby was born with two faces"
+    ]
+  }, 
+  {
+    "test": "a boy cartoon the the the cartoon", 
+    "image_id": 923, 
+    "refs": [
+      "a cartoon character flies around"
+    ]
+  }, 
+  {
+    "test": "a woman is drawing an side and applies makeup to with", 
+    "image_id": 924, 
+    "refs": [
+      "a lady in grey t shirt is showing some product and saying something", 
+      "a lady in grey t shirt is showing some product and saying something", 
+      "a lady in grey t shirt is showing some product and saying something"
+    ]
+  }, 
+  {
+    "test": "a demonstration of a man out the the stage", 
+    "image_id": 925, 
+    "refs": [
+      "a cell phone is taken apart and held up to the camera lens for observation"
+    ]
+  }, 
+  {
+    "test": "a band is on stage", 
+    "image_id": 942, 
+    "refs": [
+      "a band is performing a song"
+    ]
+  }, 
+  {
+    "test": "a woman in a blue shirt from a them on a a", 
+    "image_id": 954, 
+    "refs": [
+      "a man is running and a women is complaining about it"
+    ]
+  }, 
+  {
+    "test": "a clip of a soccer features features on a up a a", 
+    "image_id": 956, 
+    "refs": [
+      "a close up look at a toy", 
+      "a close up look at a toy"
+    ]
+  }, 
+  {
+    "test": "a man is playing doing the game", 
+    "image_id": 960, 
+    "refs": [
+      "a lady folding a stroller up", 
+      "a lady folding a stroller up"
+    ]
+  }, 
+  {
+    "test": "a woman of a into to one stands in a blue on a she she she she it", 
+    "image_id": 982, 
+    "refs": [
+      "a man wearing a black shirt and jeans sitting in his room is talking with another man in a suit and red tie"
+    ]
+  }
+]
