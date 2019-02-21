@@ -9,6 +9,11 @@ Microsoft Research - Video to Text (MSR-VTT) is a dataset composed of 10k Videos
 ## Methodology
 Following figure depicts our proposal for caption generation on MSR-VTT dataset. We used the popular encoder-decoder architecture utilizing both state of the art CNNs and LSTMs along with attention mechanism for sequence to sequence translation.
 
+
+<p align="middle">
+  <img src="../master/methadology.PNG"/>
+ </p>
+
 ## The encoding Stage
 
 Feature Extraction
@@ -60,44 +65,21 @@ SPICE     0.065
 
 # Examples:
 
-Some Correct descriptions predicted by our model:
-
-
-Predicted Sentence:   a scene of a video game
+### Some  descriptions predicted by our model:
 
 
 
-Predicted Sentence: a band is performing a song  
+<p align="middle">
+  <img src="../master/band.PNG"/>
+ </p>
 
 
+<p align="middle">
+  <img src="../master/pan.PNG"/>
+ </p>
 
-Predicted Sentence: a cartoon character talks in front of a cartoon talks
+<p align="middle">
+  <img src="../master/Cartoon.PNG"/>
+ </p>
 
-
-
-
-Predicted Sentence: a person stirs ingredients meat in a pan
-
-
-
-
-
-
-
-
-Examples where our model could not correctly predict and somehow lost it
-
-
-Predicted Sentence: two wrestling are men in a player and a ball in a ball the the
-
-
-
-
-
-Predicted Sentence:  a clip of the man a dummy SOS a road
-
-
-
-
-Predicted Sentence: a cartoon character is knights to his animals
 
