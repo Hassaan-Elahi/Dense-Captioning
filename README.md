@@ -11,7 +11,7 @@ Following figure depicts our proposal for caption generation on MSR-VTT dataset.
 
 
 <p align="middle">
-  <img src="../master/methadology.PNG"/>
+  <img src="../master/methadology.JPG"/>
  </p>
 
 ## The encoding Stage
@@ -70,16 +70,16 @@ SPICE     0.065
 
 
 <p align="middle">
-  <img src="../master/band.PNG"/>
+  <img src="../master/band.JPG"/>
  </p>
 
 
 <p align="middle">
-  <img src="../master/pan.PNG"/>
+  <img src="../master/pan.JPG"/>
  </p>
 
 <p align="middle">
-  <img src="../master/Cartoon.PNG"/>
+  <img src="../master/Cartoon.JPG"/>
  </p>
 
 
